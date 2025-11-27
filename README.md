@@ -53,7 +53,8 @@ QR_Decomposition(a)
 
 ## Output
 
-![Uploading Screenshot 2025-11-27 104321.png…]()
+<img width="1919" height="1079" alt="Screenshot 2025-11-27 104321" src="https://github.com/user-attachments/assets/50a648d9-ecfa-4f43-8ac7-b82f31ca432c" />
+
 
 
 
